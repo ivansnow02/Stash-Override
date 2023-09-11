@@ -1,18 +1,6 @@
 name: 自用覆写
 desc: 尝试
-proxies:
-  - dns: null
-    ip: 162.159.192.85
-    ipv6: null
-    keepalive: null
-    mtu: null
-    name: Cloudflare
-    port: 946
-    private-key: 6CKKmCxP1Pak3YlTYcRqEO+1tezAzO9Qg7psrJY0I1o=
-    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-    reserved: null
-    server: 162.159.195.160
-    type: wireguard
+
 rules:
   - DOMAIN,frp-cup.top,DIRECT
   - DOMAIN-SUFFIX,coursera.org,🚀 节点选择
@@ -45,7 +33,3 @@ rules:
   - DOMAIN,news-client.apple.com,🚀 节点选择
   - DOMAIN,news-events.apple.com,🚀 节点选择
   - DOMAIN,news-edge.apple.com,🚀 节点选择
-proxy-groups：
-  - name: 🚀 手动切换
-    proxies: 
-    - Cloudflare
