@@ -45,3 +45,7 @@ rules:
   - DOMAIN,news-client.apple.com,🚀 节点选择
   - DOMAIN,news-events.apple.com,🚀 节点选择
   - DOMAIN,news-edge.apple.com,🚀 节点选择
+proxy-groups：
+  - name: 🚀 手动切换
+    proxies: 
+    - Cloudflare
