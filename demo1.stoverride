@@ -1,4 +1,4 @@
-name: 自用覆写
+nname: 自用覆写
 desc: 尝试
 rules:
   - DOMAIN,frp-cup.top,DIRECT
@@ -32,4 +32,4 @@ rules:
   - DOMAIN,news-client.apple.com,🚀 节点选择
   - DOMAIN,news-events.apple.com,🚀 节点选择
   - DOMAIN,news-edge.apple.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ultralystic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ultralytics.com,🚀 节点选择
