@@ -3,8 +3,8 @@ desc: 尝试
 rules:
   - DOMAIN,frp-cup.top,DIRECT
   - DOMAIN-SUFFIX,coursera.org,🚀 节点选择
-  - DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net,DIRECT
-  - DOMAIN-SUFFIX,api-ap.heaven-burns-red.wfs.games,hbr
+  - DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net,🚀 手动切换
+  - DOMAIN-SUFFIX,api-ap.heaven-burns-red.wfs.games,🚀 手动切换
   - DOMAIN-SUFFIX,icloud-content.com,🚀 节点选择
   - DOMAIN-SUFFIX,apple-dns.com,🚀 手动切换
   - DOMAIN-SUFFIX,apple.com,🚀 手动切换
