@@ -2,34 +2,35 @@ nname: 自用覆写
 desc: 尝试
 rules:
   - DOMAIN,frp-cup.top,DIRECT
-  - DOMAIN-SUFFIX,coursera.org,🚀 节点选择
-  - DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net,🚀 手动切换
-  - DOMAIN-SUFFIX,api-ap.heaven-burns-red.wfs.games,🚀 手动切换
-  - DOMAIN-SUFFIX,icloud-content.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apple-dns.com,🚀 手动切换
-  - DOMAIN-SUFFIX,apple.com,🚀 手动切换
-  - DOMAIN-SUFFIX,icloud.com,🚀 手动切换
-  - DOMAIN-SUFFIX,digicert.com,🚀 节点选择
-  - DOMAIN-SUFFIX,bing.com,🚀 节点选择
-  - DOMAIN-SUFFIX,api-umamusume.cygames.jp,🇯🇵 日本节点
-  - DOMAIN,ipinfo.io,🚀 节点选择
+  - DOMAIN-SUFFIX,coursera.org,选择代理
+  - DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net,手动选择
+  - DOMAIN-SUFFIX,api-ap.heaven-burns-red.wfs.games,手动选择
+  - DOMAIN-SUFFIX,icloud-content.com,选择代理
+  - DOMAIN-SUFFIX,apple-dns.com,选择代理
+  - DOMAIN-SUFFIX,apple.com,选择代理
+  - DOMAIN-SUFFIX,icloud.com,选择代理
+  - DOMAIN-SUFFIX,digicert.com,选择代理
+  - DOMAIN-SUFFIX,bing.com,选择代理
+  - DOMAIN-SUFFIX,api-umamusume.cygames.jp,JP 日本节点  
+
+  - DOMAIN,ipinfo.io,选择代理
   - DOMAIN-SUFFIX,feiniaoyun.life,DIRECT
-  - DOMAIN-SUFFIX,claude.ai,🇺🇲 美国节点
-  - DOMAIN-SUFFIX,jp.livelog.nexon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,m-api.nexon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,sdk-push.mp.nexon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,log.ngsm.nexon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,api.ngsm.nexon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,nxm-eu-bagl.nexon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ba.dn.nexoncdn.co.kr,🚀 节点选择
-  - DOMAIN-SUFFIX,m.nexon.com,🚀 节点选择
-  - DOMAIN-SUFFIX,stamp.mp.nexon.com,🚀 节点选择
-  - DOMAIN,news-events.apple.com,🚀 节点选择
-  - DOMAIN,gateway.icloud.com,🚀 节点选择
-  - DOMAIN,gspe1-ssl.ls.apple.com,🚀 节点选择
-  - DOMAIN-SUFFIX,apple.news,🚀 节点选择
-  - DOMAIN,apple.comscoreresearch.com,🚀 节点选择
-  - DOMAIN,news-client.apple.com,🚀 节点选择
-  - DOMAIN,news-events.apple.com,🚀 节点选择
-  - DOMAIN,news-edge.apple.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ultralytics.com,🚀 节点选择
+  - DOMAIN-SUFFIX,claude.ai,US 美国节点   
+  - DOMAIN-SUFFIX,jp.livelog.nexon.com,选择代理
+  - DOMAIN-SUFFIX,m-api.nexon.com,选择代理
+  - DOMAIN-SUFFIX,sdk-push.mp.nexon.com,选择代理
+  - DOMAIN-SUFFIX,log.ngsm.nexon.com,选择代理
+  - DOMAIN-SUFFIX,api.ngsm.nexon.com,选择代理
+  - DOMAIN-SUFFIX,nxm-eu-bagl.nexon.com,选择代理
+  - DOMAIN-SUFFIX,ba.dn.nexoncdn.co.kr,选择代理
+  - DOMAIN-SUFFIX,m.nexon.com,选择代理
+  - DOMAIN-SUFFIX,stamp.mp.nexon.com,选择代理
+  - DOMAIN,news-events.apple.com,选择代理
+  - DOMAIN,gateway.icloud.com,选择代理
+  - DOMAIN,gspe1-ssl.ls.apple.com,选择代理
+  - DOMAIN-SUFFIX,apple.news,选择代理
+  - DOMAIN,apple.comscoreresearch.com,选择代理
+  - DOMAIN,news-client.apple.com,选择代理
+  - DOMAIN,news-events.apple.com,选择代理
+  - DOMAIN,news-edge.apple.com,选择代理
+  - DOMAIN-SUFFIX,ultralytics.com,选择代理
