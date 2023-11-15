@@ -3,6 +3,7 @@ desc: 尝试
 rules:
   - DOMAIN,frp-cup.top,DIRECT
   - DOMAIN-SUFFIX,coursera.org,🚀 手动切换
+  - DOMAIN-SUFFIX bandainamcoid.com,🇯🇵 日本节点
   - DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net,🚀 手动切换
   - DOMAIN-SUFFIX,api-ap.heaven-burns-red.wfs.games,🚀 手动切换
   - DOMAIN-SUFFIX,icloud-content.com,🚀 节点选择
